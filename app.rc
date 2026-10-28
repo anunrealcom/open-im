@@ -1,0 +1,4 @@
+// YiHuanIM 资源脚本
+// 不要求管理员权限（asInvoker）— 简化体验。
+// 局域网发现通道：UDP 5353 (mDNS 兼容，Windows 默认放行) + UDP 4799 子网扫描兜底。
+1 RT_MANIFEST "app.manifest"
